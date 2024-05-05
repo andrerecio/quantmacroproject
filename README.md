@@ -1,7 +1,7 @@
 # quantmacroproject
 
 This repository contains data for replicate Deleidi and Mazzucato (2021)
-DatasetD2018.csv cointains quarterly data from 1947:Q1 to 2018:Q3. All data are nominal, obtained from the BEA-NIPA (the same BEA code of Deleidi and MAazzucato).
+DatasetD2018.csv contains quarterly data from 1947:Q1 to 2018:Q3. All data are nominal, obtained from the BEA-NIPA (the same BEA code of Deleidi and Mazzucato).
 
 ## Gordon's transformation
 
